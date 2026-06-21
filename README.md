@@ -1,2 +1,14 @@
 # ngsportsbasketball-lab
-HTML page archive and documentation
+
+资料页面发布仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
